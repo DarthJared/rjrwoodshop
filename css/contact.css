@@ -1,0 +1,10 @@
+.tallBod {
+    height: calc(100vh - 119px);
+}
+.icon-block {
+    text-align: center !important;
+}
+a.contact {
+    font-size: 18px !important;
+    font-weight: bold;
+}
