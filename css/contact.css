@@ -1,5 +1,5 @@
 .tallBod {
-    height: calc(100vh - 119px);
+    height: calc(100vh - 169px);
 }
 .icon-block {
     text-align: center !important;
@@ -7,4 +7,7 @@
 a.contact {
     font-size: 18px !important;
     font-weight: bold;
+}
+.contentCont {
+    padding-bottom: 50px;
 }
